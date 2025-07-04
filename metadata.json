@@ -1,0 +1,6 @@
+{
+  "name": "二重振り子シミュレーター (Double Pendulum Simulator)",
+  "description": "An interactive and visually appealing double pendulum simulator built with React and TypeScript. Adjust physical parameters and initial conditions to explore the chaotic motion of the system.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
